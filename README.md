@@ -1,0 +1,1 @@
+ProcessBlacklist GameMaker Extension
