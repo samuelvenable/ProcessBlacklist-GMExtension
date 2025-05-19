@@ -1,0 +1,6 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"libversinfo","order":1,"path":"extensions/libversinfo/libversinfo.yy",},
+  ],
+}
